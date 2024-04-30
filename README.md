@@ -14,8 +14,8 @@
 12. git add .; it's used to save modifications you've made to your work
 13. git status; it gives us all the information about our currents branch
 14. git commit -m 'caption'; it's used to make a snapshot of the saved changes
-15. git push; it's used to upload local repository content to remote repository if there's already a link between the two
-16. git remote add origin <link>; it's used to connect a local repository with aremote repository
+15. git push; it's used to upload local repository content to remote repository if the there's already a link between the two
+16. git remote add origin <link>; it's used to connect a local repository with a remote repository
 17. git push -u origin main; it's used to push your commits to your remote repository
 18. git branch <branch name>; it's used to create a new branch which you can name by replacing the word branch with
 19. git checkout <branch name>; it's used when switching to a new branch
